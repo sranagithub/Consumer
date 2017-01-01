@@ -1,0 +1,11 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "its test app for verifying docker container",
+  "main": "server.js",
+  "dependencies": {
+    "express": "4.14.0"
+  },
+  "author": "saurabh",
+  "license": "ISC"
+}
